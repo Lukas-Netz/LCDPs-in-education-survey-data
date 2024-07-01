@@ -1,12 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+title: 'LCPD usage in Education, public survey results'
+message: 'If you use this software, please cite it as below.'
+type: dataset
 authors:
   - family-names: Netz
     given-names: Lukas
-    orcid: https://orcid.org/0000-0003-2013-2919
+    orcid: 'https://orcid.org/0000-0003-2013-2919'
   - family-names: Michael
     given-names: Judith
-    orcid: https://orcid.org/0000-0002-4999-2544
-title: "LCPD usage in Education, public survey results"
-version: 1.0
-date-released: 2024-07-01
+    orcid: 'https://orcid.org/0000-0002-4999-2544'
+repository-code: >-
+  https://github.com/Lukas-Netz/LCDPs-in-education-survey-data
+keywords:
+  - CSV
+version: 1
+date-released: '2024-07-01'
