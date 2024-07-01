@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Netz
+    given-names: Lukas
+    orcid: https://orcid.org/0000-0003-2013-2919
+  - family-names: Michael
+    given-names: Judith
+    orcid: https://orcid.org/0000-0002-4999-2544
+title: "LCPD usage in Education, public survey results"
+version: 1.0
+date-released: 2024-07-01
